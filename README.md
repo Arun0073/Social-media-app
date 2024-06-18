@@ -1,4 +1,4 @@
-                                                                          Social-media App
+Social-Media App
 
 
 🌟 Tech stack: MERN + Socket.io + Chakra UI
